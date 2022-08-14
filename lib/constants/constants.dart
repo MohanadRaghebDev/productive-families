@@ -19,3 +19,5 @@ num? userId;
 
 Position? userPosition;
 String? accountType;
+
+const String DEF_ERROR = "Error happened try again later!";
