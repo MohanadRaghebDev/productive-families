@@ -185,3 +185,10 @@ const GUEST_CHOSEN_MARKET_ORDERING_SCREEN =
     '/GUEST_CHOSEN_MARKET_ORDERING_SCREEN';
 const GUEST_CHOSEN_MARKET_PRICE_FILTERING_SCREEN =
     '/GUEST_CHOSEN_MARKET_PRICE_FILTERING_SCREEN';
+
+//Providers
+const PROVIDERS_LOGIN = '/providers/login' ;
+const PROVIDERS_REGISTER = '/providers/register' ;
+const PROVIDERS_CONFIRM_REGISTER_PHONE = '/providers/account/verification' ;
+const PROVIDERS_RESEND_CONFIRM_CODE = '/providers/resend/code' ;
+const PROVIDERS_LOGOUT = '/providers/logout' ;
